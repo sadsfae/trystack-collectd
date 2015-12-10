@@ -8,5 +8,5 @@ This comes with no support or assistance.
    - edit this appropriately for your environment
    - copy the usr-lib64-collectd-plugins/ collectd plugins to /etc/lib64/collectd/plugins/
 
-** Example **
+**Example Grafana Dashboard**
 ![Grafana](/example/trystack-grafana.png?raw=true "Grafana Dashboard")
