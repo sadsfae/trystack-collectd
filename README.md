@@ -3,6 +3,11 @@ OpenStack collectd plugins used for Trystack.org.
 
 This comes with no support or assistance.
 
+**Note**
+I've moved this repo to the main Trystack one here:
+   - https://github.com/trystack/trystack-collectd
+
+
 **How do I use these?**
    - copy the etc-collectd.d/ conf files to /etc/collectd.d/
    - edit this appropriately for your environment
